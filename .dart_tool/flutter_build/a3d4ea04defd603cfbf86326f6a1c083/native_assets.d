@@ -1,0 +1,1 @@
+ /home/user/Projects/Flutter/fultter_tutorial/flutter_application_2/.dart_tool/flutter_build/a3d4ea04defd603cfbf86326f6a1c083/native_assets.yaml: 
